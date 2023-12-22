@@ -21,7 +21,7 @@ const Contact = () => {
               <MdLocationCity className="contact__option-icon" />
             </div>
             <div className="contact__option-children">
-              <h5>devsuper15@gmail.com</h5>
+              <h5>topdev39@gmail.com</h5>
               <h5>Davao, Philippines</h5>
             </div>
           </article>

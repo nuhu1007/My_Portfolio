@@ -21,16 +21,16 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>6+ year</small>
+              <small>5+ year</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>7+ Completed Projects</small>
+              <small>32+ Completed Projects</small>
             </article>
           </div>
           <p>
-            Able Front-end Developer with over 6 years of expertise in building Web & Mobile applications development.
+            Able Full-stack Developer with over 6 years of expertise in building Web & Mobile applications development.
             <br />
             My goal is to deliver efficient and effective solutions, and I adhere to the following principles in my work:
             <br />
